@@ -6,17 +6,16 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I'm trying to consume more intentionally! Here are some "texts" I am (slowly) working through:
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. Qiu Miaojin (求描金): *Notes of A Crocodile*
+2. Hanif Abdurraqib: *There's Always This Year: On Basketball and Ascension*
+3. Wisam Rafeedie: *The Trinity of Fundamentals*
+4. Fatimah Asghar: *When We Were Sisters*
+5. Shinichirō Watanabe (渡辺 信一郎): *Samurai Champloo*
+6. N.K. Jeminsin: *The Obelisk Gate*
+7. Alex Beachum & Loan Verneau: *Outer Wilds*
+8. The Last Dinner Party: *Prelude to Ecstasy*
+9. Wong Kar-wai (王家卫): *Fallen Angels*
+10. TBD: *TBD - Mao??*
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
