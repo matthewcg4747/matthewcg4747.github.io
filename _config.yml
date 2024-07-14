@@ -30,10 +30,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Mercurial Musings
-subtitle: A collection of effervescent thoughts
-description: A website made by me, Matthew G, full of my thoughts, feelings, and projects.
-  I hope you like what you find here, thank you for visiting!!
+title: Mercurial Musings
+subtitle: Flowing effervescent thoughts
+description: Hello! My name is Matthew and I am hoping this website will be an effective platform for me to share about whatever captures my attention or occupies my heart and mind. Currently in Mongolia.
 author: Matthew Gonzo
 email: chuckevans468@gmail.com
 avatar: assets/images/DSC_0391.JPG
