@@ -30,13 +30,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Mercurial Musings
+title: Mercurial Musings
 subtitle: A collection of effervescent thoughts
 description: A website made by me, Matthew G, full of my thoughts, feelings, and projects.
   I hope you like what you find here, thank you for visiting!!
 author: Matthew Gonzo
 email: chuckevans468@gmail.com
-avatar: assets/images/DSC_0391.JPG
+avatar: assets/images/NewAv1
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/matthewcg4747.github.io" # the subpath of your site, e.g. /blog
