@@ -37,7 +37,7 @@ author: Matthew G
 email: chuckevans468@gmail.com
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/matthewcg4747.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://matthewcg4747.github.io" # the base hostname & protocol for your site
 
 # Social settings
