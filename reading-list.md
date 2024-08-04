@@ -17,5 +17,5 @@ I'm trying to consume more intentionally! Here are some "texts" I am (slowly) wo
 7. Alex Beachum & Loan Verneau: *Outer Wilds*
 8. The Last Dinner Party: *Prelude to Ecstasy*
 9. Wong Kar-wai (王家卫): *Fallen Angels*
-10. TBD: *TBD - Mao??*
+10. Ai Yazawa: Nana
 
