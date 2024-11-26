@@ -34,10 +34,19 @@ For those who don’t know I’ve always been far from my family. I don’t mean
   Mourning can be fickle. I never got an answer to my question if I’m being honest. Even today I don’t know how to fully feel, years after both of them passed on. I don’t have the solace of a relationship with impact, to be burdened by the hole left by the impact of someone with that much meaning. Nor do I have the excuse, the veil, of bitterness and anger. Instead I have fragments of a broken mirror that can never fully be pieced together. An ice cream shared on a humid summer day, the Skype calls with the exact same questions every time, the stories I hear whenever I visit where they used to live. Their old house.
 
 
-  I miss them. Even if I don’t fully remember them.
+
+
+I miss them. Even if I don’t fully remember them.
+
+
+
 
 
 <p><span class="image left"><img src="{{ 'assets/images/blogpost/firstblogIG/sunset.jpeg' | relative_url }}" alt="" /></span>I don’t think there ever will be an answer. It also seems like others don’t have answers, losing someone and the feelings associated with it can’t just be replaced or filled with some matter of other things. Perhaps on some level growing up takes learning how to be comfortable with grief. Not like mourning comes with an instruction manual, let alone for something as incoherent and abstract as a relationship you yearn for. I guess, for now, I will do my best to channel it forward. I may not have known them, but I can get to know their legacy. I can strive for stronger relationships with the people I do still have time with. At least for now I can cherish the perspective they have given me, and for the relationships they are helping me shape. I still have grandparents who I won’t let slip me by. 
 
   
-  I love you Ama and Kong-Kong. We may have never had the chance to get to know each other in this world. But I carry parts of you with me today, and maybe some time down the line we’ll talk about the lives we have lived. I’m sure that would make me happy.
+
+
+
+
+I love you Ama and Kong-Kong. We may have never had the chance to get to know each other in this world. But I carry parts of you with me today, and maybe some time down the line we’ll talk about the lives we have lived. I’m sure that would make me happy.
