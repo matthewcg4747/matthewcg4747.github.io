@@ -1,5 +1,5 @@
 ---
-title: Freedom, Meaning, & Life Abroad
+title: Freedom, Meaning, and Life Abroad
 author: Matthew
 layout: post
 ---
