@@ -20,7 +20,7 @@ At the fulcrum of authenticity lies honesty. Frankly, I’m tired of performing 
 
 The lesson is as old as time: it is better to have loved and lost than to have never loved at all. We have a distinctly short time on this earth, a flicker so quick at a cosmic scale. Why would I want to waste it in the pursuit of protection? When I leave this Earth I want to be proud of the life I lived, and this includes not leaving anything on the table. So when I say that humanity's greatest strength is our willingness to try and our capacity to care, I mean it. I plan to love wholly moving forward, to shape a future where people love fully and authentically, where they celebrate love because it makes their hearts beat and after it all, they are successful in love because they choose to walk their path, not in spite of a hyper-cautious lifestyle. People were made to care. And to make it abundantly clear. I care. Or, at least I’m willing to try.
 
-<!-- Break -->
+--------------
 
 While this essay has largely focused on love in the context of relationships (which includes the platonic ones), I also wanted to take a little bit of time to say this same spirit should extend to other corners of your life.. Really, to life itself. Please find it in yourself to love life and the world all around us. Because, as corny as Jordan Peterson is, he really ate when he said, “There are cathedrals everywhere for those with the eyes to see.” If you choose to love life, your life will become a life worth living. 
 
